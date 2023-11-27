@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Dhanushkottapalli
 - 👀 I’m interested in automation.
-- 🌱 I’m currently learning automation with** bharat pi.**
+- 🌱 I’m currently learning automation with bharat pi.
 - 💞️ I’m looking to collaborate on automation.
 - 📫 How to reach me ...
 
